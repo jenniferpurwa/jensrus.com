@@ -1,7 +1,6 @@
 Welcome to JensRus
 
-![Image](https://drive.google.com/file/d/15HiMfmDXCUsqQZ5beg1VKAKgSrXDQNeg/view?usp=sharing&resourcekey=0-gBf7HO7bqOBVq2pXj1DDXw)
-
+![Image](https://imgur.com/z5WO6CV) 
 
 
 Go to the [ABOUT page](http://jensrus.com/about)
