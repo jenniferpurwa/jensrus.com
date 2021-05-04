@@ -8,18 +8,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 THIS IS AN ABOUT PAGE
 
-Welcome to
-
-![Image](https://i.imgur.com/TreVNFN.png) 
-
-
 Go to the [TRIAL page](http://jensrus.com/trial1)
 
 Go to the [HOME page](http://jensrus.com/)
 
 ---
-layout: page
-title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
