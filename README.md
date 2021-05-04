@@ -1,4 +1,12 @@
+Welcome to JensRus
+
+![Image](https://drive.google.com/file/d/15HiMfmDXCUsqQZ5beg1VKAKgSrXDQNeg/view?usp=sharing&resourcekey=0-gBf7HO7bqOBVq2pXj1DDXw)
+
+
+
 Go to the [ABOUT page](http://jensrus.com/about)
+
+
 
 ## Welcome to GitHub Pages
 
