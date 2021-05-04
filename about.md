@@ -1,6 +1,5 @@
 ---
 Layout: default
-Title: Why you'd want to go on a date with me
 ---
 
 THIS IS AN ABOUT PAGE
@@ -9,7 +8,7 @@ Go to the [TRIAL page](http://jensrus.com/trial1)
 
 Go to the [HOME page](http://jensrus.com/)
 
-
+Title: Why you'd want to go on a date with me
 
 My name is Inigo Montoya. I have the following qualities:
 
