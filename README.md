@@ -7,7 +7,7 @@ Go to the [ABOUT page](http://jensrus.com/about)
 
 Go to the [trial page](http://jensrus.com/trial1)
 
-
+Go to the [Beautiful Jekyll page](http://jensrus.com/beautifuljekyll)
 
 ## Welcome to GitHub Pages
 
