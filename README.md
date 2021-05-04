@@ -5,6 +5,8 @@ Welcome to
 
 Go to the [ABOUT page](http://jensrus.com/about)
 
+Go to the [trial page](http://jensrus.com/trial1)
+
 
 
 ## Welcome to GitHub Pages
