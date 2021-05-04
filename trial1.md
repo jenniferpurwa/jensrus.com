@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 THIS IS A TRIAL
 
