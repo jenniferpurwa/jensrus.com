@@ -4,6 +4,8 @@ Go to the [next page](http://jensrus.com/about)
 
 You can use the [editor on GitHub](https://github.com/jenniferpurwa/jensrus.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+Go to the [next page](http://jensrus.com/about)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
