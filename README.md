@@ -1,6 +1,6 @@
 Welcome to JensRus
 
-![Image](https://imgur.com/z5WO6CV) 
+![Image](https://i.imgur.com/TreVNFN.png) 
 
 
 Go to the [ABOUT page](http://jensrus.com/about)
